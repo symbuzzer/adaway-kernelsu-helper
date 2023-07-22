@@ -1,6 +1,3 @@
-rm /data/adb/post-fs-data.d/adawayksuhelper
-rm /data/adb/service.d/adawayksuhelper
-
 # Don't modify anything after this
 if [ -f $INFO ]; then
   while read LINE; do
