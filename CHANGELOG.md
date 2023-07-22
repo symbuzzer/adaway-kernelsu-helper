@@ -1,5 +1,5 @@
 For support this project: [Patreon](https://avalibeyaz.com/patreon)  
 --------------  
   
-## v1.0.0  
+## v1.0.3  
 - Initial release
