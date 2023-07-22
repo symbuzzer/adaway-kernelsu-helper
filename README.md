@@ -6,7 +6,7 @@ This module doesn't break safetynet and not detected from any apps.
 - [Changelog](https://github.com/symbuzzer/adaway-kernelsu-helper/blob/main/CHANGELOG.md)
 
 ## How to use:  
-- Install AdAway and give it root permission from KernelSU. Wait error mesagge and force close AdAway.
+- Install AdAway and give it root permission from KernelSU. Wait error message and force close AdAway.
 - Restart AdAway and add and/or update host sources. Don't try to enable AdAway and ignore all error mesagges.
 - Download and install [AdAway KernelSU Helper](https://github.com/symbuzzer/adaway-kernelsu-helper/releases/latest/download/adaway-kernelsu-helper.zip) from KernelSU modules section. Press reboot when installation finishes.
 - When device boots, unlock phone within before 40 seconds. And wait 40 seconds minimal. After that reboot again to use hosts file successfully. (Need twice reboot for now)
