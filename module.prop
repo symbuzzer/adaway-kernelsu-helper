@@ -1,7 +1,7 @@
 id=adaway-kernelsu-helper
 name=AdAway KernelSU Helper
-version=v1.0.0
-versionCode=100
+version=v1.0.1
+versionCode=101
 author=Ali BEYAZ (github.com/symbuzzer)
 description=Required module to use AdAway on KernelSU
 updateJson=https://raw.githubusercontent.com/symbuzzer/adaway-kernelsu-helper/main/update.json
